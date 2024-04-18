@@ -1,0 +1,43 @@
+/* assets/css/dashboard.css */
+
+/* Style for container */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style for welcome message */
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Style for paragraph */
+p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Style for unordered list */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style for list items */
+li {
+    margin-bottom: 10px;
+}
+
+/* Style for links */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+/* Style for links on hover */
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
